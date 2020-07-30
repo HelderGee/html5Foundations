@@ -3,4 +3,4 @@ The purpose of this repository is to showcase my ability to understand and write
 
 HTML is one of the foundations of Web Development. A deployed version of this repository can be found at https://skills.helderhacks.com
 
-Note: Inside the html folder, is a plain html version without any CSS styles.
+Note: Inside the html folder, is a plain [html](https://github.com/HelderGee/html5Foundations/tree/master/html) version without any CSS styles.
